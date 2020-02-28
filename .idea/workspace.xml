@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e303499-c492-4043-9b67-297d1418df87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dev/prashath" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/prashath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dev/prashath/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/prashath/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ab3f7f30-141c-47fe-93c2-c2ddd0bb1721" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/dev/prashath" />
-  </component>
-  <component name="ProjectId" id="1Y0Tkm7ufwInPg9CHzqnA032Mo3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1YS3CP9uQT42kDgDJiF0p7RKiyX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +16,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="dev.prashath.Main" />
-      <module name="MortgageCalc" />
+      <module name="MortgageCalculator" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -43,60 +35,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e303499-c492-4043-9b67-297d1418df87" name="Default Changelist" comment="" />
-      <created>1582078656776</created>
+      <changelist id="ab3f7f30-141c-47fe-93c2-c2ddd0bb1721" name="Default Changelist" comment="" />
+      <created>1582922040592</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582078656776</updated>
+      <updated>1582922040592</updated>
     </task>
-    <task id="LOCAL-00001" summary="OKAY">
-      <created>1582163134432</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1582163134432</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="OKAY" />
-    <option name="LAST_COMMIT_MESSAGE" value="OKAY" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="64" key="CommitChangelistDialog2" timestamp="1582163133701">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="676" height="245" key="GridCell.Tab.0.bottom" timestamp="1582922581418">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="707" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582163133701" />
-    <state width="678" height="230" key="GridCell.Tab.0.bottom" timestamp="1582163372642">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="676" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582922581418" />
+    <state width="676" height="245" key="GridCell.Tab.0.center" timestamp="1582922581416">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="678" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582163372642" />
-    <state width="678" height="230" key="GridCell.Tab.0.center" timestamp="1582163372641">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="676" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582922581416" />
+    <state width="676" height="245" key="GridCell.Tab.0.left" timestamp="1582922581415">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="678" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582163372641" />
-    <state width="678" height="230" key="GridCell.Tab.0.left" timestamp="1582163372641">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="676" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582922581415" />
+    <state width="676" height="245" key="GridCell.Tab.0.right" timestamp="1582922581417">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="678" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582163372641" />
-    <state width="678" height="230" key="GridCell.Tab.0.right" timestamp="1582163372642">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="676" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582922581417" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1582922577799">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="678" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582163372642" />
-    <state x="159" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582232274118">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="159" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582232274118" />
+    <state width="500" height="400" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1582922577799" />
   </component>
 </project>
