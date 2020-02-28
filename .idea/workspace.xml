@@ -22,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -74,5 +75,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="500" height="400" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1582922577799" />
+    <state x="819" y="210" key="extract.method.dialog" timestamp="1582925858486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="819" y="210" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1582925858486" />
   </component>
 </project>
